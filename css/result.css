@@ -1,0 +1,10 @@
+#result{
+  display: none;
+  background-color: white;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+.resultDesc{
+  text-align: left;
+}
